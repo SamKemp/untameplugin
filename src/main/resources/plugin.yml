@@ -1,0 +1,33 @@
+name: Untame-Plugin
+main: pw.untamemadman.plugins.untameplugin.UntamePlugin
+description: This plugin is made by untamemadman for PixelAdrift.
+prefix: Untame-Plugin
+version: 2.0
+database: false
+author: untamemadman
+website: http://modding.untamemadman.pw
+
+commands:
+    untamemadman:
+        description: Tells the user about the plugin
+        aliases: utmm
+        usage: /untamemadman
+        permission: untame-plugin.utmm
+        permission-message: You do not have /<permission>
+    fakeleave:
+        description: Makes other players think player has left the server
+        aliases: [fl, fleave, fakel]
+        usage: /fakeleave [player]
+        permission: untame-plugin.fakeleave
+        permission-message: You do not have /<permission>
+    fakejoin:
+        description: Makes other players think player has joined the server
+        aliases: [fj, fjoin, fakej]
+        usage: /fakejoin [player]
+        permission: untame-plugin.fakejoin
+        permission-message: You do not have /<permission>
+    gm:
+        description: Changes your gamemode
+        usage: /gm [gamemode]
+        permission: untame-plugin.gm
+        permission-message: You do not have /<permission>
