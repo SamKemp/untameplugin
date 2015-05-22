@@ -26,8 +26,3 @@ commands:
         usage: /fakejoin [player]
         permission: untame-plugin.fakejoin
         permission-message: You do not have /<permission>
-    gm:
-        description: Changes your gamemode
-        usage: /gm [gamemode]
-        permission: untame-plugin.gamemode
-        permission-message: You do not have /<permission>
