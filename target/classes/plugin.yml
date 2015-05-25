@@ -10,9 +10,9 @@ website: http://modding.untamemadman.pw
 commands:
     untamemadman:
         description: Tells the user about the plugin
-        aliases: utmm
+        aliases: untame
         usage: /untamemadman
-        permission: untame-plugin.utmm
+        permission: untame-plugin.untamemadman
         permission-message: You do not have /<permission>
     fakeleave:
         description: Makes other players think player has left the server
@@ -28,7 +28,6 @@ commands:
         permission-message: You do not have /<permission>
     gm:
         description: Change your gamemode
-        aliases: [gmode, gamemj]
         usage: /gm [gamemode]
-        permission: untame-plugin.gamemode
+        permission: untame-plugin.gm
         permission-message: You do not have /<permission>
