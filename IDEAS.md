@@ -4,7 +4,6 @@ Idea LIST
 - [X] Fake Leave/Join
 - [ ] utmm bot
 - [ ] Auto Update
-- [ ] Vanish
 - [ ] Record/Streaming stuff
   - [ ] /stream - announces the person is streaming
   - [ ] /record - announces the person is recording
