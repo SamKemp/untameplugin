@@ -2,7 +2,7 @@ name: Untame-Plugin
 main: pw.untamemadman.plugins.untameplugin.UntamePlugin
 description: This plugin is made by untamemadman for PixelAdrift.
 prefix: Untame-Plugin
-version: 2.5
+version: 3.0
 database: false
 author: untamemadman
 website: http://modding.untamemadman.pw
@@ -30,4 +30,9 @@ commands:
         description: Change your gamemode
         usage: /gm [gamemode]
         permission: untame-plugin.gm
+        permission-message: You do not have /<permission>
+    stream:
+        description: Tells the server your streaming
+        usage: /stream [url]
+        permission: untame-plugin.youtube.stream
         permission-message: You do not have /<permission>
