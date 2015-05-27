@@ -1,7 +1,9 @@
 Idea LIST
 *tick means its been done already*
 
+- [X] Base info command - /untamemadman
 - [X] Fake Leave/Join
+- [X] /gm - easy gamemode changing
 - [ ] utmm bot
 - [ ] Auto Update
 - [X] Record/Streaming stuff
