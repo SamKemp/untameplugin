@@ -2,7 +2,7 @@ name: Untame-Plugin
 main: pw.untamemadman.plugins.untameplugin.UntamePlugin
 description: This plugin is made by untamemadman for PixelAdrift.
 prefix: Untame-Plugin
-version: 3.0
+version: 3.1
 database: false
 author: untamemadman
 website: http://modding.untamemadman.pw
@@ -32,7 +32,12 @@ commands:
         permission: untame-plugin.gm
         permission-message: You do not have /<permission>
     stream:
-        description: Tells the server your streaming
-        usage: /stream [url]
+        description: Tells the server you are streaming
+        usage: /stream <url>
         permission: untame-plugin.youtube.stream
+        permission-message: You do not have /<permission>
+    record:
+        description: Tells the server you are recording
+        usage: /record
+        permission: untame-plugin.youtube.record
         permission-message: You do not have /<permission>

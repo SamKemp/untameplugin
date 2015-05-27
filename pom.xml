@@ -6,7 +6,7 @@
 
     <groupId>pw.untamemadman.plugins</groupId>
     <artifactId>Untame-Plugin</artifactId>
-    <version>3.0</version>
+    <version>3.1</version>
 
     <build>
         <plugins>
