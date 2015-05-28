@@ -2,7 +2,7 @@ name: Untame-Plugin
 main: pw.untamemadman.plugins.untameplugin.UntamePlugin
 description: This plugin is made by untamemadman for PixelAdrift.
 prefix: Untame-Plugin
-version: 3.1
+version: 3.2
 database: false
 author: untamemadman
 website: http://modding.untamemadman.pw
