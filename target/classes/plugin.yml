@@ -2,7 +2,7 @@ name: Untame-Plugin
 main: pw.untamemadman.plugins.untameplugin.UntamePlugin
 description: This plugin is made by untamemadman for PixelAdrift.
 prefix: Untame-Plugin
-version: 3.3
+version: 3.4
 database: false
 author: untamemadman
 website: http://modding.untamemadman.pw
@@ -40,4 +40,9 @@ commands:
         description: Tells the server you are recording
         usage: /record
         permission: untame-plugin.youtube.record
+        permission-message: You do not have /<permission>
+    coding:
+        description: Tells the server you are coding
+        usage: /coding
+        permission: untame-plugin.coding
         permission-message: You do not have /<permission>
