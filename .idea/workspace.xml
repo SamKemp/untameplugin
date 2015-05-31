@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="11b367c4-c514-41bb-9fef-543e9912d180" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/pw/untamemadman/plugins/untameplugin" afterPath="$PROJECT_DIR$/src/main/java/pw/untamemadman/plugins/untameplugin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IDEAS.md" afterPath="$PROJECT_DIR$/IDEAS.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="untame-plugin.iws" />
@@ -27,31 +26,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="UntamePlugin.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="UntamePlugin.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/pw/untamemadman/plugins/untameplugin/UntamePlugin.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="coding.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/pw/untamemadman/plugins/untameplugin/commands/coding.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="31" column="36" selection-start-line="31" selection-start-column="36" selection-end-line="31" selection-end-column="36" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LoginListener.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/pw/untamemadman/plugins/untameplugin/listeners/LoginListener.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="27" column="69" selection-start-line="27" selection-start-column="69" selection-end-line="27" selection-end-column="69" />
+            <state vertical-scroll-proportion="0.6326861">
+              <caret line="29" column="37" selection-start-line="29" selection-start-column="37" selection-end-line="29" selection-end-column="37" />
               <folding />
             </state>
           </provider>
@@ -67,10 +46,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="IDEAS.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="IDEAS.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/IDEAS.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.24757281">
+            <state vertical-scroll-proportion="0.0">
               <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
               <folding />
             </state>
@@ -120,8 +99,6 @@
         <option value="$PROJECT_DIR$/src/main/java/pw/untamemadman/plugins/untameplugin/commands/gamemode.java" />
         <option value="$PROJECT_DIR$/src/main/java/pw/untamemadman/plugins/untameplugin/commands/utplugins.java" />
         <option value="$PROJECT_DIR$/src/main/java/pw/untamemadman/plugins/untameplugin/commands/vanish.java" />
-        <option value="$PROJECT_DIR$/src/main/java/pw/untamemadman/plugins/untameplugin/listeners/LoginListener.java" />
-        <option value="$PROJECT_DIR$/src/main/java/pw/untamemadman/plugins/untameplugin/UntamePlugin.java" />
         <option value="$PROJECT_DIR$/src/main/java/pw/untamemadman/plugins/untameplugin/commands/fakeleave.java" />
         <option value="$PROJECT_DIR$/src/main/java/pw/untamemadman/plugins/untameplugin/commands/fakejoin.java" />
         <option value="$PROJECT_DIR$/src/main/java/pw/untamemadman/plugins/untameplugin/commands/gm.java" />
@@ -132,6 +109,10 @@
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/resources/plugin.yml" />
         <option value="$PROJECT_DIR$/IDEAS.md" />
+        <option value="$PROJECT_DIR$/src/main/java/pw/untamemadman/plugins/untameplugin/listeners/LoginListener.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pw/untamemadman/plugins/untameplugin/listeners/RespawnListener.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pw/untamemadman/plugins/untameplugin/listeners/AchivementListener.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pw/untamemadman/plugins/untameplugin/UntamePlugin.java" />
       </list>
     </option>
   </component>
@@ -690,7 +671,13 @@
       <option name="project" value="LOCAL" />
       <updated>1433107109651</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="Updated IDEA's list">
+      <created>1433113107957</created>
+      <option name="number" value="00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1433113107957</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -756,7 +743,8 @@
     <MESSAGE value="Fixed a typo in the login message" />
     <MESSAGE value="Added a command to quickly close a server and bungeecord instance" />
     <MESSAGE value="Added /coding&#10;Changed the &quot;you must be a player&quot; message to only send to the sender not the entire server" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added /coding&#10;Changed the &quot;you must be a player&quot; message to only send to the sender not the entire server" />
+    <MESSAGE value="Updated IDEA's list" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated IDEA's list" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -976,22 +964,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pw/untamemadman/plugins/untameplugin/UntamePlugin.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pw/untamemadman/plugins/untameplugin/listeners/LoginListener.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="27" column="69" selection-start-line="27" selection-start-column="69" selection-end-line="27" selection-end-column="69" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/plugin.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1010,8 +982,46 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/IDEAS.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.24757281">
+        <state vertical-scroll-proportion="0.0">
           <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pw/untamemadman/plugins/untameplugin/listeners/RespawnListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#455#456#0" expanded="true" />
+            <element signature="e#537#538#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pw/untamemadman/plugins/untameplugin/listeners/AchivementListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.49514562">
+          <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pw/untamemadman/plugins/untameplugin/listeners/LoginListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.20226537">
+          <caret line="17" column="26" selection-start-line="17" selection-start-column="26" selection-end-line="42" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pw/untamemadman/plugins/untameplugin/UntamePlugin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6326861">
+          <caret line="29" column="37" selection-start-line="29" selection-start-column="37" selection-end-line="29" selection-end-column="37" />
           <folding />
         </state>
       </provider>
