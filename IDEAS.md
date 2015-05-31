@@ -7,6 +7,7 @@ Idea LIST
 - [ ] utmm bot
 - [ ] Auto Update
 - [ ] Help command with notification to mod/admin's
+- [X] /coding - Like /afk but for coding
 - [X] Record/Streaming stuff
   - [X] /stream - announces the person is streaming
   - [X] /record - announces the person is recording
